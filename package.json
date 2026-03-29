@@ -16,7 +16,7 @@
   "devDependencies": {
     "@types/node": "^24.0.1",
     "miniflare": "^4.20250923.0",
-    "typescript": "^5.8.3",
+    "typescript": "^5.9.3",
     "undici": "7.14.0",
     "uuid": "^11.1.0",
     "vitest": "^3.2.4"
